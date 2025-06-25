@@ -1,1 +1,4 @@
-not allowed
+#!bin/bash
+
+
+echo "not allowed"
